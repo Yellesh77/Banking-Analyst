@@ -27,7 +27,7 @@ To design and develop an interactive Power BI dashboard that provides real-time 
 - Dashboard interaction <a href="https://github.com/Yellesh77/Banking-Analyst/blob/main/Screenshot%202025-10-27%20155940.png"> View Dashboard</a>
 
 ## Dashboard screenshot
-![Uploading Screenshot 2025-10-27 155940.png…]()
+<img width="1311" height="807" alt="Screenshot 2025-10-27 155940" src="https://github.com/user-attachments/assets/6ea4c02f-10ed-4f73-88e0-970c59e1b348" />
 
 ## Porject insights:
 The dashboard revealed high-performing loan types and regions, identified revenue growth trends, and highlighted areas needing improvement in loan recovery and approval rates.
