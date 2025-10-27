@@ -4,7 +4,7 @@ To design and develop an interactive Power BI dashboard that provides real-time 
 ## Dataset used:
 - <a href = "https://github.com/Yellesh77/Banking-Analyst/blob/830995eea478cd1db6cb61d7d8ab9c4af2ecd53b/Bank%20Data%20Analystics%20Data.xlsx"> Bank data </a>
 
-
+## Questions (KPIs)
 - Total Loan Amount Funded: Measures the total value of loans disbursed.
 - Total Loans: Tracks the number of loans issued.
 - Total Collection: Reflects repayment performance, including principal and interest.
