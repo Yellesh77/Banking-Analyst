@@ -24,6 +24,10 @@ To design and develop an interactive Power BI dashboard that provides real-time 
 -Loan Maturity: Tracks the timeline until full repayment 
 -No Verified Loans: Identifies loans without proper verification.
 
+- Dashboard interaction
+
+## Dashboard screenshot
+
 ## Porject insights:
 The dashboard revealed high-performing loan types and regions, identified revenue growth trends, and highlighted areas needing improvement in loan recovery and approval rates.
 
