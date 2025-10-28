@@ -24,7 +24,7 @@ To design and develop an interactive Power BI dashboard that provides real-time 
 - Loan Maturity: Tracks the timeline until full repayment 
 - No Verified Loans: Identifies loans without proper verification.
 
-- Dashboard interaction <a href="https://github.com/Yellesh77/Banking-Analyst/blob/main/Screenshot%202025-10-27%20155940.png"> View Dashboard</a>
+- Dashboard interaction <a href="https://github.com/Yellesh77/Banking-Analyst/blob/84e8ea84b609f90cdbbe3ca76ed800e6168f27e4/Power%20BI%20Dashboard%20.png"> View Dashboard</a>
 
 ## Dashboard screenshot
 <img width="1311" height="807" alt="Screenshot 2025-10-27 155940" src="https://github.com/user-attachments/assets/6ea4c02f-10ed-4f73-88e0-970c59e1b348" />
